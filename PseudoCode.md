@@ -1,6 +1,6 @@
-Nama : Moh. Khairul Umam
-NIM : 202310370311448
-Kelas : Struktur Data 4C
+#### Nama : Moh. Khairul Umam
+#### NIM : 202310370311448
+#### Kelas : Struktur Data 4C
 
 ```text
 ALGORITHM MergeSort(arr, left, right)
