@@ -2,6 +2,7 @@
 #### NIM : 202310370311448
 #### Kelas : Struktur Data 4C
 
+### PseudoCode Merge Short
 ```text
 ALGORITHM MergeSort(arr, left, right)
 BEGIN
